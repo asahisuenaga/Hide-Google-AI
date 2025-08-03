@@ -27,7 +27,3 @@
 3. Open the file, delete the manifest_chrome.json file, and rename manifest_firefox.json to manfiest.json.
 4. Go to `about:debugging#/runtime/this-firefox`
 5. Click **Load Temporary Add-on** and select the `manifest.json` within the directory where you unzipped the extension files. *(Note: this temporary install is only active until Firefox is closed.)*
-
-### [Follow me on GitHub](https://github.com/zbarnz)
-
-### [Buy me a Coffee](https://buymeacoffee.com/zbarnz)
