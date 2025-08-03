@@ -1,4 +1,4 @@
-# Google AI Overviews Blocker
+# [Hide Google AI Mode and Overviews](https://asahi.framer.wiki/hide-google-ai)
 
 ## Overview
 
