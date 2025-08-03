@@ -6,24 +6,35 @@
 
 **Remove AI-generated overviews and AI Mode in Google search results. Get the extension if you prefer a cleaner, traditional search result page without AI-powered summaries.**
 
-## Install
+<kbd>
+<div style="border: 1 solid black; padding: 10;">
+  <a href="https://chromewebstore.google.com/detail/_____________">
+    <img src="https://fwextensions.github.io/QuicKey/img/webstore.png" width="186" height="56.25">
+  </a>
+</div>
+</kbd>
 
-[Chrome Web Store](https://chromewebstore.google.com/detail/_______/_______) - it can also be installed in Microsoft Edge, Opera, and Brave.
+<p></p>
 
-## Manual Setup
+> [!NOTE]
+> If you're using another browser based on Chromium, like [Microsoft Edge](https://support.microsoft.com/en-us/microsoft-edge/add-turn-off-or-remove-extensions-in-microsoft-edge-9c0ec68c-2fbc-2f2c-9ff0-bdc76f46b026#ID0EDL), [Opera](https://forums.opera.com/topic/72036/duplicated-install-chrome-extensions-is-no-longer-available-in-opera-extensions-store/2), or [Brave](https://brave.com/learn/using-chrome-extensions-in-brave/#how-to-install-chrome-extensions-in-brave), you can install the extension by visiting the Chrome Web Store through that browser.
 
-### For Chrome:
+## Manual Installation
 
-1. Download this repo.
-2. Unzip the downloaded file to a desired location on your computer.
-3. Open the file, delete the manifest_firefox.json file, and rename manifest_chrome.json to manfiest.json.
-4. Open Chrome and go to `chrome://extensions/`.
-5. Enable Developer Mode and click 'Load unpacked' and select the directory where you unzipped the extension files.
+### Chrome
 
-### Firefox:
+1. Download the repository and unzip the downloaded file.
+2. Open the file, delete the manifest_firefox.json file, and rename manifest_chrome.json to manfiest.json.
+3. Open Chrome andgo to `chrome://extensions/`.
+4. Enable Developer Mode and click 'Load unpacked' and select the directory where you unzipped the extension files.
 
-1. Download this repo.
-2. Unzip the downloaded file to a desired location on your computer.
-3. Open the file, delete the manifest_chrome.json file, and rename manifest_firefox.json to manfiest.json.
-4. Go to `about:debugging#/runtime/this-firefox`
-5. Click **Load Temporary Add-on** and select the `manifest.json` within the directory where you unzipped the extension files. *(Note: this temporary install is only active until Firefox is closed.)*
+### Firefox
+
+1. Download the repository and unzip the downloaded file.
+2. Open the file, delete the manifest_chrome.json file, and rename manifest_firefox.json to manfiest.json.
+3. Go to `about:debugging#/runtime/this-firefox`
+5. Click **Load Temporary Add-on** and select the `manifest.json`. *(Note: this temporary install is only active until Firefox is closed.)*
+
+## Support
+
+To report a bug, [create a new issue](https://github.com/asahisuenaga/custom-cursor/issues/new) or visit my [website](https://asahi.framer.wiki) and hit `c` on the keyboard to copy my email.
