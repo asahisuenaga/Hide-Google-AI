@@ -1,13 +1,14 @@
 {
   "manifest_version": 3,
-  "name": "Hide Google AI Overviews",
-  "version": "1.5",
-  "description": "Hide annoying Google AI Overviews.",
+  "name": "Hide Google AI Mode and Overviews",
+  "version": "1.0.0",
+  "description": "Disabled the very annoying Google AI Mode and Overviews.",
   "permissions": ["scripting"],
   "icons": {
-    "16": "icons/strikeAI16.png",
-    "48": "icons/strikeAI48.png",
-    "128": "icons/strikeAI128.png"
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
   },
   "host_permissions": [
     "*://*.google.com/search*",
@@ -396,7 +397,7 @@
   ],
   "browser_specific_settings": {
     "gecko": {
-      "id": "Google_AI_Overviews_Blocker@zachbarnes.dev",
+      "id": "Hide-Google-AI@asahi.fyi",
       "strict_min_version": "58.0"
     },
     "gecko_android": {}
