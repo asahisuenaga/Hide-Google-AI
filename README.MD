@@ -1,4 +1,4 @@
-# [Hide Google AI Mode and Overviews (WIP)](https://asahi.framer.wiki/hide-google-ai)
+# [Hide Google AI Mode and Overviews](https://asahi.framer.wiki/hide-google-ai)
 
 <a href="https://asahi.framer.wiki/hide-google-ai">
   <img src="icons/icon128.png" width="64" height="64">
