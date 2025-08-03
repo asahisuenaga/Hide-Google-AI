@@ -4,7 +4,7 @@
   <img src="icons/icon128.png" width="64" height="64">
 </a>
 
-**Remove the annoying AI-generated overviews and AI Mode in Google search results and google.com. Get the extension if you prefer a cleaner, traditional search result page without AI-powered summaries.**
+**Remove AI-generated overviews and AI Mode in Google search results. Get the extension if you prefer a cleaner, traditional search result page without AI-powered summaries.**
 
 ## Install
 
