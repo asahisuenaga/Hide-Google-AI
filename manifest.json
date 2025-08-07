@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Hide Google AI Mode and Overviews",
   "version": "1.0.0",
-  "description": "Disabled the very annoying Google AI Mode and Overviews.",
+  "description": "Disable the very annoying Google AI Mode and Overviews.",
   "permissions": ["scripting"],
   "icons": {
     "16": "icons/icon16.png",
