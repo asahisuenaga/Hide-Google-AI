@@ -35,6 +35,12 @@ if (pathname === "/search") {
     if (mainElement) mainElement.style.marginTop = "24px";
 
     document.querySelectorAll('.olrp5b').forEach(el => el.style.display = 'none');
+    
+    const aiCards = document.querySelectorAll('div.h7W2Pb.Ww4FFb.vt6azd');
+aiCards.forEach(el => {
+  const parent = el.parentElement;
+  if (parent) parent.style.display = 'none';
+});
 
     const peopleAlsoAskAiOverviews = [
       ...document.querySelectorAll("div.related-question-pair"),
