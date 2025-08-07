@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Hide Google AI Mode and Overviews",
+  "name": "Hide Google AI Mode, Audio, and Overviews",
   "version": "1.0.0",
-  "description": "Disable the very annoying Google AI Mode and Overviews.",
+  "description": "Disable the atrocious Google AI Mode, Audio, and Overviews.",
   "permissions": ["scripting"],
   "icons": {
     "16": "icons/icon16.png",
