@@ -32,7 +32,7 @@ if (pathname === "/search") {
     if (headerTabs) headerTabs.style.paddingBottom = "12px";
 
     const mainElement = document.querySelector('[role="main"]');
-    const altMain = document.querySelector('div.TQc1id.k5T88b.vVVcqf.jBpNZc.e0KErc.UE2fsd');
+    const altMain = document.querySelector('#rhs');
 
     if (mainElement) mainElement.style.marginTop = "24px";
     if (altMain) altMain.style.marginTop = "24px";
