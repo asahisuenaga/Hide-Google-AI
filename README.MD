@@ -8,7 +8,7 @@
 
 <kbd>
 <div style="border: 1 solid black; padding: 10;">
-  <a href="https://chromewebstore.google.com/detail/_____________">
+  <a href="https://chromewebstore.google.com/detail/pkbhdojajlnigelihhbclnikhidgnbeo">
     <img src="https://fwextensions.github.io/QuicKey/img/webstore.png" width="186" height="56.25">
   </a>
 </div>
