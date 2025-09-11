@@ -37,4 +37,4 @@
 
 ## Support
 
-To report a bug, [create a new issue](https://github.com/asahisuenaga/custom-cursor/issues/new) or visit my [website](https://asahi.framer.wiki) and hit `c` on the keyboard to copy my email.
+To report a bug, [create a new issue](https://github.com/asahisuenaga/custom-cursor/issues/new) or send me a message on [X (formerly Twitter)](https://twitter.com/asahisuenaga).
