@@ -24,14 +24,14 @@
 ### Chrome
 
 1. Download the repository and unzip the downloaded file.
-2. Open the file, delete the manifest_firefox.json file, and rename manifest_chrome.json to manfiest.json.
+2. Open the file, delete the manifest_firefox.json file, and rename manifest_chrome.json to manifest.json.
 3. Open Chrome andgo to `chrome://extensions/`.
 4. Enable Developer Mode and click 'Load unpacked' and select the directory where you unzipped the extension files.
 
 ### Firefox
 
 1. Download the repository and unzip the downloaded file.
-2. Open the file, delete the manifest_chrome.json file, and rename manifest_firefox.json to manfiest.json.
+2. Open the file, delete the manifest_chrome.json file, and rename manifest_firefox.json to manifest.json.
 3. Go to `about:debugging#/runtime/this-firefox`
 5. Click **Load Temporary Add-on** and select the `manifest.json`. *(Note: this temporary install is only active until Firefox is closed.)*
 
