@@ -68,12 +68,8 @@ if (
   const hideHomepageStuff = () => {
     const btn = document.querySelector('button[jsname="B6rgad"]');
     if (btn) btn.style.display = "none";
-
-    document.querySelectorAll('div.KxwPGc.ssOUyb').forEach(el => el.style.display = 'none');
-    document.querySelectorAll('div[jsname="FAeNCb"]').forEach(el => el.style.display = 'none');
   };
 
-  // Hide immediately + observe
   hideHomepageStuff();
   const homeObserver = new MutationObserver(hideHomepageStuff);
   homeObserver.observe(document, { childList: true, subtree: true });
