@@ -1,8 +1,6 @@
-# [Hide Google AI Mode, Audio, and Overviews](https://asahi.framer.wiki/hide-google-ai)
+# Hide Google AI Overviews, Mode, and Audio
 
-<a href="https://asahi.framer.wiki/hide-google-ai">
-  <img src="icons/icon128.png" width="64" height="64">
-</a>
+<img src="icons/icon128.png" width="64" height="64">
 
 **Remove AI-generated text and audio overviews, and AI Mode in Google search results. Get the extension if you prefer a cleaner, traditional search result page without AI-powered summaries.**
 
@@ -37,4 +35,4 @@
 
 ## Support
 
-To report a bug, [create a new issue](https://github.com/asahisuenaga/custom-cursor/issues/new) or send me a message on [X (formerly Twitter)](https://twitter.com/asahisuenaga).
+To report a bug, [create a new issue](https://github.com/asahisuenaga/hide-google-ai/issues/new) or send me a message on [X (formerly Twitter)](https://twitter.com/asahisuenaga).
